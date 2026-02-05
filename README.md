@@ -1,3 +1,4 @@
+![Project Screenshot](res/Defender_7.png)
 ![Project Screenshot](res/Defender_1.png)
 ![Project Screenshot](res/Defender_2.png)
 ![Project Screenshot](res/Defender_3.png)
